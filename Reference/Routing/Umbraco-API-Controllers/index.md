@@ -155,7 +155,7 @@ public class ProductsController : UmbracoApiController
 }
 ```
 
-This route the controllers actions like so:
+This routes the controllers actions like so:
 
 `~/products/GetAllProducts` and `~/products/GetProduct`
 
